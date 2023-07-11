@@ -1,0 +1,8 @@
+body {
+    font-family: 'Khmer', Roboto Condensed, sans-serif;
+}
+
+/* Chrome, Edge and Safari */
+.scorll-bar::-webkit-scrollbar {
+    display: none;
+}
